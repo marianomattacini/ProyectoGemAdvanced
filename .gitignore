@@ -1,4 +1,4 @@
-# ============================================================
+﻿# ============================================================
 # .gitignore — ProyectoGemAdvanced
 # ============================================================
 
@@ -95,7 +95,6 @@ backups/**/.env.*
 .idea/
 .DS_Store
 Thumbs.db
-frontend/
 
 # Scripts temporales de desarrollo
 scripts_*.js
